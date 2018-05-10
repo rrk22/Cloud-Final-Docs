@@ -1,5 +1,5 @@
 # Cloud-Final-Docs
-AWS &amp; Docker Docs for Cloud Final
+Docs for Cloud Final
 
 * AWS EC2 User Guide
 * AWS EC2 API Reference
