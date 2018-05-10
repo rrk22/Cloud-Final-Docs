@@ -10,7 +10,9 @@ Docs for Cloud Final
 * AWS DynamoDB Developer Guide
 * AWS DynamoDB API Reference
 * AWS Cloudformation User Guide
-* AWS Cloudformation API Reference	
+* AWS Cloudformation API Reference
+* AWS RDS User Guide
+* AWS RDS API Reference		
 * Docker Documentation
 * Google Cloud Python Documentation
 * Jenkins User Handbook
